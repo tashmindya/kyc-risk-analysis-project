@@ -1,3 +1,4 @@
+CREATE DATABASE testDB;
 CREATE TABLE customers (
     customer_id INT,
     name TEXT,
